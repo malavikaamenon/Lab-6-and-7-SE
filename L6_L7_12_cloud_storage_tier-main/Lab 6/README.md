@@ -1,6 +1,6 @@
-# L6_L7_12 — Cloud Storage Tier
+# L6_12 — Cloud Storage Tier
 
-Lab 6: Code and Branch Coverage
+Lab 6: Code and Branch Coverage ONLY LAB 7 DIFF REPO
 
 ## About
 
